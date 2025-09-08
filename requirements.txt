@@ -1,0 +1,19 @@
+# LangChain core + integrations
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-google-genai
+
+# Vector DB
+chromadb>=0.4.4
+
+# Gemini SDK
+google-generativeai
+
+# Utilities
+tqdm
+requests
+pymupdf
+
+streamlit
